@@ -1,0 +1,98 @@
+{
+  "type": "object",
+  "properties": {
+    "blocking_power": {
+      "type": "string",
+      "enum": [
+        "none",
+        "present",
+        "unknown"
+      ]
+    },
+    "accepted_task": {
+      "type": "string",
+      "enum": [
+        "no",
+        "yes",
+        "unknown"
+      ]
+    },
+    "norm_standing": {
+      "type": "string",
+      "enum": [
+        "adopted",
+        "candidate",
+        "not_supplied",
+        "unclear"
+      ]
+    },
+    "selected_version": {
+      "type": "string"
+    },
+    "source_inquiry": {
+      "type": "string",
+      "enum": [
+        "none",
+        "bounded",
+        "conditional",
+        "not_determined",
+        "no_binding_source",
+        "other"
+      ]
+    },
+    "recommended_inquiry": {
+      "type": "string",
+      "enum": [
+        "none",
+        "bounded",
+        "conditional",
+        "not_determined",
+        "other"
+      ]
+    },
+    "recommended_disposition": {
+      "type": "string",
+      "enum": [
+        "no_added_inquiry",
+        "proceed_within_scope",
+        "defer_or_reduce",
+        "clarify_first",
+        "accountable_review",
+        "other"
+      ]
+    },
+    "basis": {
+      "type": "string"
+    },
+    "next_action": {
+      "type": "string"
+    },
+    "limits": {
+      "type": "string"
+    },
+    "assigned_review_office": {
+      "type": "string"
+    },
+    "dissent": {
+      "type": "string"
+    },
+    "change_trigger": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "blocking_power",
+    "accepted_task",
+    "norm_standing",
+    "selected_version",
+    "source_inquiry",
+    "recommended_inquiry",
+    "recommended_disposition",
+    "basis",
+    "next_action",
+    "limits",
+    "assigned_review_office",
+    "dissent",
+    "change_trigger"
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "purpose": "Selected historical source bytes; not a complete platform transcript.",
+  "files": [
+    {
+      "export": "studies/representation-fidelity/cases.jsonl",
+      "source_sha256": "c908755aba5bacdf2a18ba5e279e8a5541d26a0f7380aa331932915b1fe30bbe",
+      "export_sha256": "c908755aba5bacdf2a18ba5e279e8a5541d26a0f7380aa331932915b1fe30bbe",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/source-packets.jsonl",
+      "source_sha256": "17400644842ece8745c8c9876681898fa4243746d12e7659913d2fa3a96b0258",
+      "export_sha256": "17400644842ece8745c8c9876681898fa4243746d12e7659913d2fa3a96b0258",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/trial-plan.jsonl",
+      "source_sha256": "38cc7001161a558ed40c111002fd27d7648c71004a73a526109e822d239fd73b",
+      "export_sha256": "38cc7001161a558ed40c111002fd27d7648c71004a73a526109e822d239fd73b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/expected.jsonl",
+      "source_sha256": "31cfd84509035390dffd611e53afe3bb4e25e62e8a101e13c63c079cd40f507f",
+      "export_sha256": "31cfd84509035390dffd611e53afe3bb4e25e62e8a101e13c63c079cd40f507f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/adjudications.jsonl",
+      "source_sha256": "d6dcbe1158bce14939abe21db2218ac47137017a18764eb4049e1ad1754e27f9",
+      "export_sha256": "d6dcbe1158bce14939abe21db2218ac47137017a18764eb4049e1ad1754e27f9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/response-schema.json",
+      "source_sha256": "da36f21bea3984b452ff90792e7bd61f7a7d04e57a5e00c8ee194c38810e80d8",
+      "export_sha256": "da36f21bea3984b452ff90792e7bd61f7a7d04e57a5e00c8ee194c38810e80d8",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/common-instruction.txt",
+      "source_sha256": "6868f7e8261b9443928fe11969dd7d803fa18402c5c084b362721b71e8fb2d8e",
+      "export_sha256": "6868f7e8261b9443928fe11969dd7d803fa18402c5c084b362721b71e8fb2d8e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/summary.json",
+      "source_sha256": "1449c5003f01c13d00dc21213162d994b86f92a6976877c4a4e1dbcd3383fc1f",
+      "export_sha256": "1449c5003f01c13d00dc21213162d994b86f92a6976877c4a4e1dbcd3383fc1f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T001.txt",
+      "source_sha256": "bb9b2e15b56e9eb515f7f98564c7c98a303500f52323fb9e5477d17484139feb",
+      "export_sha256": "bb9b2e15b56e9eb515f7f98564c7c98a303500f52323fb9e5477d17484139feb",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T002.txt",
+      "source_sha256": "9a23d1a07787a261c92704f58ce191e5910896d298fed5ac2485634e7e54f27f",
+      "export_sha256": "9a23d1a07787a261c92704f58ce191e5910896d298fed5ac2485634e7e54f27f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T003.txt",
+      "source_sha256": "ed1adc37aabb37a4c5133938ee97a4a496ed092b45e2d403af2b3898115bc20b",
+      "export_sha256": "ed1adc37aabb37a4c5133938ee97a4a496ed092b45e2d403af2b3898115bc20b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T004.txt",
+      "source_sha256": "afbf6650594a6c2bc55c606292b370c43c5c80a5b842e39b05e39d32d0f452f0",
+      "export_sha256": "afbf6650594a6c2bc55c606292b370c43c5c80a5b842e39b05e39d32d0f452f0",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T005.txt",
+      "source_sha256": "5a72f5d7611c1f00ee4213b78fa3a89b93f69f005875df31fc5199eb1810dba5",
+      "export_sha256": "5a72f5d7611c1f00ee4213b78fa3a89b93f69f005875df31fc5199eb1810dba5",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T006.txt",
+      "source_sha256": "920b589c0a2b2bb7631ab1fea9b4462148a65ac397cf1238d2d5340452ba7ac4",
+      "export_sha256": "920b589c0a2b2bb7631ab1fea9b4462148a65ac397cf1238d2d5340452ba7ac4",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T007.txt",
+      "source_sha256": "108b59c61df85159e3805b7adb32f92a88027f6abd4a3c44c604c2a8d5a62c09",
+      "export_sha256": "108b59c61df85159e3805b7adb32f92a88027f6abd4a3c44c604c2a8d5a62c09",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T008.txt",
+      "source_sha256": "c33b538e0accebe63feefbcac703bae20e94884a29c47d3f9cf73f1fa642b6ab",
+      "export_sha256": "c33b538e0accebe63feefbcac703bae20e94884a29c47d3f9cf73f1fa642b6ab",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T009.txt",
+      "source_sha256": "a2c4acb47d075c54230d7aa04f02845a43f27f2c865d93a74e0d31d9125ee458",
+      "export_sha256": "a2c4acb47d075c54230d7aa04f02845a43f27f2c865d93a74e0d31d9125ee458",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T010.txt",
+      "source_sha256": "5e114e6c82895fc68dca9c5c78fde1d6d1fcb6249803281124cdab1fe0144ecc",
+      "export_sha256": "5e114e6c82895fc68dca9c5c78fde1d6d1fcb6249803281124cdab1fe0144ecc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T011.txt",
+      "source_sha256": "6561851aa89eb5f5905a2c67513502812a48d0f585fbabf6d88b83f7b9cd0a3d",
+      "export_sha256": "6561851aa89eb5f5905a2c67513502812a48d0f585fbabf6d88b83f7b9cd0a3d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T012.txt",
+      "source_sha256": "cb388c0c9dfcc1c1b5486575a5729b9befaa0fd418e3db68fdb3b7da9ae72f38",
+      "export_sha256": "cb388c0c9dfcc1c1b5486575a5729b9befaa0fd418e3db68fdb3b7da9ae72f38",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T013.txt",
+      "source_sha256": "091a45d6c5740407abe48eb464a4da7130e44769e4e80b04ecc4893c8edceee4",
+      "export_sha256": "091a45d6c5740407abe48eb464a4da7130e44769e4e80b04ecc4893c8edceee4",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T014.txt",
+      "source_sha256": "02d3fc9f8867ad9d6de5c9e324a9e43a248e441fa9db642dac04aa15aca618d7",
+      "export_sha256": "02d3fc9f8867ad9d6de5c9e324a9e43a248e441fa9db642dac04aa15aca618d7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T015.txt",
+      "source_sha256": "ee94496e6fd2ddd2a50ebcbd606e39236ee9dd9001908e1f086aa51a8c467e6e",
+      "export_sha256": "ee94496e6fd2ddd2a50ebcbd606e39236ee9dd9001908e1f086aa51a8c467e6e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T016.txt",
+      "source_sha256": "fc36c16f2793314e454e8076a007f9702cb43a769954fa1fa039d8a17a18f7df",
+      "export_sha256": "fc36c16f2793314e454e8076a007f9702cb43a769954fa1fa039d8a17a18f7df",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T017.txt",
+      "source_sha256": "fe05a8190c2d4fdb7a98f74b1a263a5c8f380ad152349d1ac9fa269c7a3bccc9",
+      "export_sha256": "fe05a8190c2d4fdb7a98f74b1a263a5c8f380ad152349d1ac9fa269c7a3bccc9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T018.txt",
+      "source_sha256": "0d2326fadca4036fb41ca468607b32ccce354c17f308a6415c96fb0bbb2c6768",
+      "export_sha256": "0d2326fadca4036fb41ca468607b32ccce354c17f308a6415c96fb0bbb2c6768",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T019.txt",
+      "source_sha256": "07b43850fdc3d0dabb4b5360b059d3e662070288f6508d9b72c4550839ae720f",
+      "export_sha256": "07b43850fdc3d0dabb4b5360b059d3e662070288f6508d9b72c4550839ae720f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T020.txt",
+      "source_sha256": "f50b26e2ebf09d9829beb2445c5955340386172a8378954368a63c5cd504c743",
+      "export_sha256": "f50b26e2ebf09d9829beb2445c5955340386172a8378954368a63c5cd504c743",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T021.txt",
+      "source_sha256": "573c5793b2a6e520334091884753cc82d39058fbd14f15a40acbbb8440808fe9",
+      "export_sha256": "573c5793b2a6e520334091884753cc82d39058fbd14f15a40acbbb8440808fe9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T022.txt",
+      "source_sha256": "5721f61ebf8b75318529101452cb05e6d0be6317e548b62c53303f95daf865bf",
+      "export_sha256": "5721f61ebf8b75318529101452cb05e6d0be6317e548b62c53303f95daf865bf",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T023.txt",
+      "source_sha256": "e65a67f5f8576a9a8adfdff67f90c4ded9a6ce0ed31599f66621c986ac84ecd6",
+      "export_sha256": "e65a67f5f8576a9a8adfdff67f90c4ded9a6ce0ed31599f66621c986ac84ecd6",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T024.txt",
+      "source_sha256": "a10ef27c9b8f633ee59534855cb86a0e7e02cea1d8760d0379e85a1bc9cac575",
+      "export_sha256": "a10ef27c9b8f633ee59534855cb86a0e7e02cea1d8760d0379e85a1bc9cac575",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T025.txt",
+      "source_sha256": "af5b16274461836e7ba9b909d45725a22077afa87ab6be20ae9bf08d72589de8",
+      "export_sha256": "af5b16274461836e7ba9b909d45725a22077afa87ab6be20ae9bf08d72589de8",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T026.txt",
+      "source_sha256": "b488f9b50cd05f340838f1990f3e18e35b0c9e2ad4f2c5aabf383f2f10c0115f",
+      "export_sha256": "b488f9b50cd05f340838f1990f3e18e35b0c9e2ad4f2c5aabf383f2f10c0115f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T027.txt",
+      "source_sha256": "bf987cc2d8b063dec5c6403a444bd091ec3874148acefaa5ab992ad0bf5299e7",
+      "export_sha256": "bf987cc2d8b063dec5c6403a444bd091ec3874148acefaa5ab992ad0bf5299e7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T028.txt",
+      "source_sha256": "ac8bfec5737bb4874ca271eeba9c1f350ae3288d15cfb9d3897aead4819941c9",
+      "export_sha256": "ac8bfec5737bb4874ca271eeba9c1f350ae3288d15cfb9d3897aead4819941c9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T029.txt",
+      "source_sha256": "ec8b79c1f7cfce1bcf3f6f44e0dd9edc299d6b58e7104ce47bb959dcff3c8549",
+      "export_sha256": "ec8b79c1f7cfce1bcf3f6f44e0dd9edc299d6b58e7104ce47bb959dcff3c8549",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T030.txt",
+      "source_sha256": "2026951c57fa99aaf5e6b47c95099da973cbc9e5feec7c200c97d18f4391f3ea",
+      "export_sha256": "2026951c57fa99aaf5e6b47c95099da973cbc9e5feec7c200c97d18f4391f3ea",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T031.txt",
+      "source_sha256": "bc07c0ee3e1ed9c4573121cc5c0f0f57216ff16e20c1260e77532ecb1dd9aac3",
+      "export_sha256": "bc07c0ee3e1ed9c4573121cc5c0f0f57216ff16e20c1260e77532ecb1dd9aac3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T032.txt",
+      "source_sha256": "9b0539e5d20efb70d4fa6f560bd1846f1c682f5258bde6ad6234a929aaee0205",
+      "export_sha256": "9b0539e5d20efb70d4fa6f560bd1846f1c682f5258bde6ad6234a929aaee0205",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T033.txt",
+      "source_sha256": "e61807b57f88b6ead7e152ca82625ac9efd3d5f7126b468739af1d06489a13a6",
+      "export_sha256": "e61807b57f88b6ead7e152ca82625ac9efd3d5f7126b468739af1d06489a13a6",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T034.txt",
+      "source_sha256": "a28294ab79f06f489005d28d837e64363ca7e65fa1df5e88ca01e561969a2cab",
+      "export_sha256": "a28294ab79f06f489005d28d837e64363ca7e65fa1df5e88ca01e561969a2cab",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T035.txt",
+      "source_sha256": "ef777958ecb921cda97bda51c1e309a745fb35b0fbc5a2c4e0c20d54e227af2b",
+      "export_sha256": "ef777958ecb921cda97bda51c1e309a745fb35b0fbc5a2c4e0c20d54e227af2b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T036.txt",
+      "source_sha256": "94939357f6a400837d0eccbeee97e5cd3aa787addbd0f174f7a637d3c17eb446",
+      "export_sha256": "94939357f6a400837d0eccbeee97e5cd3aa787addbd0f174f7a637d3c17eb446",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T037.txt",
+      "source_sha256": "a66732a5b8321d16e0fab4e30f1c3ad753558d7660141a4cea4ef584f640ade9",
+      "export_sha256": "a66732a5b8321d16e0fab4e30f1c3ad753558d7660141a4cea4ef584f640ade9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T038.txt",
+      "source_sha256": "740d893e868473527b048f13a5a9d90b42fd7fe3f837f845b870ca24d12031a6",
+      "export_sha256": "740d893e868473527b048f13a5a9d90b42fd7fe3f837f845b870ca24d12031a6",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T039.txt",
+      "source_sha256": "c2ef35f88b0c1516e21cd64c8648f4fe2ab449f04c9b152a1343e55176b7f9ce",
+      "export_sha256": "c2ef35f88b0c1516e21cd64c8648f4fe2ab449f04c9b152a1343e55176b7f9ce",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T040.txt",
+      "source_sha256": "866f9b8e49955310ab95bfca075292a1a9a90ad5b0560fee9762d53b51de6467",
+      "export_sha256": "866f9b8e49955310ab95bfca075292a1a9a90ad5b0560fee9762d53b51de6467",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T041.txt",
+      "source_sha256": "59d45848c1682dffa938e26a0266f573c376140c04be5209689fa5956e118bfc",
+      "export_sha256": "59d45848c1682dffa938e26a0266f573c376140c04be5209689fa5956e118bfc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T042.txt",
+      "source_sha256": "50e5e496298b9ef7421dfc275e43e2a80a4be716e9a82c8ac49a6d3ab1df2740",
+      "export_sha256": "50e5e496298b9ef7421dfc275e43e2a80a4be716e9a82c8ac49a6d3ab1df2740",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T043.txt",
+      "source_sha256": "9f56ecc00d0c827e3c6d5d6616fbd15e9f0e14f014d37853dc05c919d697317f",
+      "export_sha256": "9f56ecc00d0c827e3c6d5d6616fbd15e9f0e14f014d37853dc05c919d697317f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T044.txt",
+      "source_sha256": "16f38b6001bc5c5ea88d7043bdad782e5efcc3f645e0a969e3f91b1cd908bf33",
+      "export_sha256": "16f38b6001bc5c5ea88d7043bdad782e5efcc3f645e0a969e3f91b1cd908bf33",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T045.txt",
+      "source_sha256": "c0a67dcc4361277292ff1bf1c20d7b242ef3283622f2f6dbc61e517876a12fba",
+      "export_sha256": "c0a67dcc4361277292ff1bf1c20d7b242ef3283622f2f6dbc61e517876a12fba",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T046.txt",
+      "source_sha256": "5c7578d25efc675b78ac58dc43aac077ff1cd13bcac11bdeceb685117b6b03f8",
+      "export_sha256": "5c7578d25efc675b78ac58dc43aac077ff1cd13bcac11bdeceb685117b6b03f8",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T047.txt",
+      "source_sha256": "db702d7a277d54b42f864216e66ce7a91001bfe82ff133fa30f4ef97f17b3faf",
+      "export_sha256": "db702d7a277d54b42f864216e66ce7a91001bfe82ff133fa30f4ef97f17b3faf",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/raw/T048.txt",
+      "source_sha256": "4c5919fe092056a29632d0584fcde461ec9b8f7771705cde8d0b0ffc87572c57",
+      "export_sha256": "4c5919fe092056a29632d0584fcde461ec9b8f7771705cde8d0b0ffc87572c57",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/representation-fidelity/responses.jsonl",
+      "source_sha256": "f27cf7f58da3bf65154caf0f25a058164d8c4316fa95a3551a15da59e74fbbaf",
+      "export_sha256": "1ed6970593caee568f3e1f78cb17a66ac9c0281cf26b44b22c88d3440b33d1c2",
+      "transformation": "Removed service receipt only; JSON keys reserialized; response values retained."
+    },
+    {
+      "export": "studies/representation-fidelity/objectives.jsonl",
+      "source_sha256": "3e53ea1ab55158d797a35f743e94f9e292e8a69318b5d942e1b72ece1122d4d2",
+      "export_sha256": "3e53ea1ab55158d797a35f743e94f9e292e8a69318b5d942e1b72ece1122d4d2",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/package.json",
+      "source_sha256": "57075b69c5a190b5adc32bd72664b25f01dfddbd9a9a6aed96dc0a8d7c7abe28",
+      "export_sha256": "57075b69c5a190b5adc32bd72664b25f01dfddbd9a9a6aed96dc0a8d7c7abe28",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/responses.jsonl",
+      "source_sha256": "e462b2b1d36fc66a97a555e37beb263f1cec443d65d4d9534a96560c65b59919",
+      "export_sha256": "e462b2b1d36fc66a97a555e37beb263f1cec443d65d4d9534a96560c65b59919",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/respondent-plan.jsonl",
+      "source_sha256": "4e75cef740eae266e2ec560ec7bf60f208374f28fca692ed9917390d706e503b",
+      "export_sha256": "4e75cef740eae266e2ec560ec7bf60f208374f28fca692ed9917390d706e503b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/score.json",
+      "source_sha256": "1c2691d3e470041482a88035bb9547be26db860bc53d63c0dbbd2470f809d3b3",
+      "export_sha256": "1c2691d3e470041482a88035bb9547be26db860bc53d63c0dbbd2470f809d3b3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/review-unmasked.json",
+      "source_sha256": "ca67d906d6b3236a272865a8b7b6edb1c4b991794f1e81b3e3200025261bbc78",
+      "export_sha256": "ca67d906d6b3236a272865a8b7b6edb1c4b991794f1e81b3e3200025261bbc78",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/repair-history.md",
+      "source_sha256": "e50862c5912da6de44207422d4ac82a470f2ad5ff527c5cda2c5e4a907eed6d7",
+      "export_sha256": "e50862c5912da6de44207422d4ac82a470f2ad5ff527c5cda2c5e4a907eed6d7",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/reviewer-mapping.json",
+      "source_sha256": "9c7101079f6252f8b6864a24448a93610f58609a2d6c33dbe92a8298eb50078c",
+      "export_sha256": "9c7101079f6252f8b6864a24448a93610f58609a2d6c33dbe92a8298eb50078c",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/reviewer-objective.txt",
+      "source_sha256": "45dfa2a56e6d526d47cb341eae0f4d00e78d1287add646e6f49d3850e9d54a52",
+      "export_sha256": "45dfa2a56e6d526d47cb341eae0f4d00e78d1287add646e6f49d3850e9d54a52",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/prep.py",
+      "source_sha256": "fe42b5d93bdf23dee182505f7a291dcaaa864019f5bc3ed6ff2a4aa5781c4a83",
+      "export_sha256": "fe42b5d93bdf23dee182505f7a291dcaaa864019f5bc3ed6ff2a4aa5781c4a83",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/A01.json",
+      "source_sha256": "8d7a7b8cefe2a5031a4a7dc359e853105bd6558304b8aa838f6a08e2a66798c2",
+      "export_sha256": "8d7a7b8cefe2a5031a4a7dc359e853105bd6558304b8aa838f6a08e2a66798c2",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R01.json",
+      "source_sha256": "e98780098777bcd69144e551f2c227fc69b5995c53ca39f08b8f24a22c1c3613",
+      "export_sha256": "e98780098777bcd69144e551f2c227fc69b5995c53ca39f08b8f24a22c1c3613",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R02.json",
+      "source_sha256": "a0c62d40a7c9074a9f259295cfe186ec057436b74a06bce1925cccd8d15d2884",
+      "export_sha256": "a0c62d40a7c9074a9f259295cfe186ec057436b74a06bce1925cccd8d15d2884",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R03.json",
+      "source_sha256": "06af83ed4f4dce18f1bc5a58eb91411a0760e7419d6ee8758462b5d4f510500d",
+      "export_sha256": "06af83ed4f4dce18f1bc5a58eb91411a0760e7419d6ee8758462b5d4f510500d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R04.json",
+      "source_sha256": "19611ce8fce8c67f2ca2c747646aef5c8f5e775bf79d665de44ac9c278012048",
+      "export_sha256": "19611ce8fce8c67f2ca2c747646aef5c8f5e775bf79d665de44ac9c278012048",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R05.json",
+      "source_sha256": "c97c3c74a7eb9d16d9d73229810a6f9bf82f31cdbae013d18faf64e38ab86f20",
+      "export_sha256": "c97c3c74a7eb9d16d9d73229810a6f9bf82f31cdbae013d18faf64e38ab86f20",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R06.json",
+      "source_sha256": "e97863211c26a8158d75dc2bc4b5d5faf97ef8858cf74b03240e587d98e71fbf",
+      "export_sha256": "e97863211c26a8158d75dc2bc4b5d5faf97ef8858cf74b03240e587d98e71fbf",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R07.json",
+      "source_sha256": "582d4367ac261abbf770e815e5e6133aa91085ec6633bcd4b43b72e72f795572",
+      "export_sha256": "582d4367ac261abbf770e815e5e6133aa91085ec6633bcd4b43b72e72f795572",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R08.json",
+      "source_sha256": "f2efa924bffb7fab87485db434b7636f0c8670caafa921d9516e4baf1456ae5e",
+      "export_sha256": "f2efa924bffb7fab87485db434b7636f0c8670caafa921d9516e4baf1456ae5e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R09.json",
+      "source_sha256": "f808ffe436101d746e146cb9884659116644e72ba56a47f3b5086bd586fcf567",
+      "export_sha256": "f808ffe436101d746e146cb9884659116644e72ba56a47f3b5086bd586fcf567",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R10.json",
+      "source_sha256": "19f636ac2b700b41e9f0f0027a4952f53b06a0ec96c996b2551778a6bc98eba3",
+      "export_sha256": "19f636ac2b700b41e9f0f0027a4952f53b06a0ec96c996b2551778a6bc98eba3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R11.json",
+      "source_sha256": "ec393d61e699432c5534ab145fd3e5de8ad6c2801dd9076fe69d9aaaee35cec0",
+      "export_sha256": "ec393d61e699432c5534ab145fd3e5de8ad6c2801dd9076fe69d9aaaee35cec0",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/R12.json",
+      "source_sha256": "fb3e41e910bc35dd65bd1320f2bcbbdb6f30b8f87a9ae6ba3b9b16bee55b2272",
+      "export_sha256": "fb3e41e910bc35dd65bd1320f2bcbbdb6f30b8f87a9ae6ba3b9b16bee55b2272",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/judgment-transfer/raw/V01.json",
+      "source_sha256": "f9a763ac8b86d456cadc62df52d40ae31f6c2d3bd3f8ed663db3a2a39ab62300",
+      "export_sha256": "f9a763ac8b86d456cadc62df52d40ae31f6c2d3bd3f8ed663db3a2a39ab62300",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/PROTOCOL.md",
+      "source_sha256": "226765c3c2b1f8d52fc5262d25ad268887d8479cecded4e79f2f290758c70e1f",
+      "export_sha256": "226765c3c2b1f8d52fc5262d25ad268887d8479cecded4e79f2f290758c70e1f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/feedback.md",
+      "source_sha256": "866073baa619d4856ecf5d04d762befe84af23f913d02778c6f6e9b66ba0977b",
+      "export_sha256": "866073baa619d4856ecf5d04d762befe84af23f913d02778c6f6e9b66ba0977b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/reviewer-template.txt",
+      "source_sha256": "9990dd75affcbf359721a3700c6e227fdfc9511d7f834fc3f01c5f5cdf338f73",
+      "export_sha256": "9990dd75affcbf359721a3700c6e227fdfc9511d7f834fc3f01c5f5cdf338f73",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V01-review.json",
+      "source_sha256": "90ae9cca35883f2ecf7388f12842ce2054bc7562535b082f80c07440dba5f6d8",
+      "export_sha256": "90ae9cca35883f2ecf7388f12842ce2054bc7562535b082f80c07440dba5f6d8",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V02-review.json",
+      "source_sha256": "1b34c7af420133a4acaa632e61a21322a7d3b8a3b541f24ed3db17b81a144024",
+      "export_sha256": "1b34c7af420133a4acaa632e61a21322a7d3b8a3b541f24ed3db17b81a144024",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V01-mapping.json",
+      "source_sha256": "fdf9bcfb14ba1e38f66684e6481538daf06824dc5489df97f94b0b78adafcd6b",
+      "export_sha256": "fdf9bcfb14ba1e38f66684e6481538daf06824dc5489df97f94b0b78adafcd6b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V02-mapping.json",
+      "source_sha256": "5bc703bd403550843b1f5ab1b50fd5fd108ce703a0b259b7307988c9efcc39fc",
+      "export_sha256": "5bc703bd403550843b1f5ab1b50fd5fd108ce703a0b259b7307988c9efcc39fc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/materials/case-1.json",
+      "source_sha256": "9db02e2bd8f26575a5bbea973a7f675e3775b31740b5fd504fb2f3590b75e0b9",
+      "export_sha256": "9db02e2bd8f26575a5bbea973a7f675e3775b31740b5fd504fb2f3590b75e0b9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/materials/case-2.json",
+      "source_sha256": "20e4f436a9432b540f2ec40461169dfd646830419e8e4a3e74e329a999d1bcab",
+      "export_sha256": "20e4f436a9432b540f2ec40461169dfd646830419e8e4a3e74e329a999d1bcab",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C1-task.txt",
+      "source_sha256": "66be32bb2f8b020982c98fb67ad165bc962c48cdd8aded4bd87afabe134a6f58",
+      "export_sha256": "66be32bb2f8b020982c98fb67ad165bc962c48cdd8aded4bd87afabe134a6f58",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C1-initial.md",
+      "source_sha256": "c34054e039273d792f6c3fbb0805baf5816afbf52180607c06345565d5e9c436",
+      "export_sha256": "c34054e039273d792f6c3fbb0805baf5816afbf52180607c06345565d5e9c436",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C1-post.md",
+      "source_sha256": "c34054e039273d792f6c3fbb0805baf5816afbf52180607c06345565d5e9c436",
+      "export_sha256": "c34054e039273d792f6c3fbb0805baf5816afbf52180607c06345565d5e9c436",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C1-self-review.md",
+      "source_sha256": "ee10ad133a57acd51c3357195fb8c6ba669b26d63add05871af92bf8e5fe8238",
+      "export_sha256": "ee10ad133a57acd51c3357195fb8c6ba669b26d63add05871af92bf8e5fe8238",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V01-objective.txt",
+      "source_sha256": "5423cbc843ddc1f62819040c76092859b66b682126fe07e06e022d4287dc1243",
+      "export_sha256": "9d398ac0499f10a86d5c90b3a3198afcc7c75d20ca20d6b6faa8ede74372aa6c",
+      "transformation": "Replaced one local review output path with [REVIEW_OUTPUT_PATH]; all other bytes retained."
+    },
+    {
+      "export": "studies/self-governance-practice/C2-task.txt",
+      "source_sha256": "ac9fd3e821f9ca2a4c2fbe05b8096b1a82248de6bd443238f7d3dee90994eb93",
+      "export_sha256": "ac9fd3e821f9ca2a4c2fbe05b8096b1a82248de6bd443238f7d3dee90994eb93",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C2-initial.md",
+      "source_sha256": "0d6d009135c7fce0436dc0751abe46a3a7e1455954df29184ccae45bb8c89a3d",
+      "export_sha256": "0d6d009135c7fce0436dc0751abe46a3a7e1455954df29184ccae45bb8c89a3d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C2-post.md",
+      "source_sha256": "0d6d009135c7fce0436dc0751abe46a3a7e1455954df29184ccae45bb8c89a3d",
+      "export_sha256": "0d6d009135c7fce0436dc0751abe46a3a7e1455954df29184ccae45bb8c89a3d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/C2-self-review.md",
+      "source_sha256": "9902bf12894ddb307c407e4a4fbd8329204c1c09501c24eb11e43bffd2b38c41",
+      "export_sha256": "9902bf12894ddb307c407e4a4fbd8329204c1c09501c24eb11e43bffd2b38c41",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "studies/self-governance-practice/V02-objective.txt",
+      "source_sha256": "6eb5b8a245780d551096439802aabdb381530402364e3be93e39078866d6d597",
+      "export_sha256": "980bb75baafc8f8b0dde5292de05b946a878bc932e5fe9cb63e5dccadf4ffb0f",
+      "transformation": "Replaced one local review output path with [REVIEW_OUTPUT_PATH]; all other bytes retained."
+    },
+    {
+      "export": "examples/decision-repair/bridge.mjs",
+      "source_sha256": "8ab1e694ababad415f252f7a5050051b1501ecf6fed1aa62705665c85a8af890",
+      "export_sha256": "8ab1e694ababad415f252f7a5050051b1501ecf6fed1aa62705665c85a8af890",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/bridge_store.py",
+      "source_sha256": "37bfc423ac6f592df53043342eaca13faf9c1f263ac02df90bb402b696fc16dc",
+      "export_sha256": "37bfc423ac6f592df53043342eaca13faf9c1f263ac02df90bb402b696fc16dc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/decision_repair.py",
+      "source_sha256": "5283d0d467009a760ff042ebf9d833ef091240136c1b025e2124e224ba260dcf",
+      "export_sha256": "5283d0d467009a760ff042ebf9d833ef091240136c1b025e2124e224ba260dcf",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/disposition_demo.py",
+      "source_sha256": "105f28d7da97af6e752a7f86a7624925dad85c53b0c8da9a0473994caabb5b2b",
+      "export_sha256": "105f28d7da97af6e752a7f86a7624925dad85c53b0c8da9a0473994caabb5b2b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/evidence_action.py",
+      "source_sha256": "e1d69046d0fc65a0b100066332f6f33d9ccdd1e458e991a4fc22c4361c01b38c",
+      "export_sha256": "e1d69046d0fc65a0b100066332f6f33d9ccdd1e458e991a4fc22c4361c01b38c",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/examples.py",
+      "source_sha256": "2eb9c6f520eeb1a6f208eb57bc753bf6b1f59e17d580a8b773dfcf513a99adc4",
+      "export_sha256": "2eb9c6f520eeb1a6f208eb57bc753bf6b1f59e17d580a8b773dfcf513a99adc4",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/fake_dispatcher.mjs",
+      "source_sha256": "db3e615b84511510d39593e8c9e6edc06125a6e294bd9df5fad4865a3080ed93",
+      "export_sha256": "db3e615b84511510d39593e8c9e6edc06125a6e294bd9df5fad4865a3080ed93",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/fixture-output.json",
+      "source_sha256": "a678c934be903c623e5dc3e1f86cf8b2cafeae6c5434b6317aa3770bd6bd7d64",
+      "export_sha256": "a678c934be903c623e5dc3e1f86cf8b2cafeae6c5434b6317aa3770bd6bd7d64",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/test_bridge.py",
+      "source_sha256": "64aec97ce495f85a6d63709f5694f9b872d088c964c9a3e06219e95097449a95",
+      "export_sha256": "64aec97ce495f85a6d63709f5694f9b872d088c964c9a3e06219e95097449a95",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/test_closure_regression.py",
+      "source_sha256": "df58a096095e473cbb3eff26faa36f8db7dfd10f7ba886b9901318ce9313f851",
+      "export_sha256": "df58a096095e473cbb3eff26faa36f8db7dfd10f7ba886b9901318ce9313f851",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/test_decision_repair.py",
+      "source_sha256": "f3e770d82a19114d334ba376275c9723105d484a7ce8f63e4bc1914d11bba63e",
+      "export_sha256": "f3e770d82a19114d334ba376275c9723105d484a7ce8f63e4bc1914d11bba63e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/test_disposition.py",
+      "source_sha256": "1928d9b34b9aa9d45d321dd8c7f656d7ceec2a9a6711e7a370e3e8c8b8f85929",
+      "export_sha256": "1928d9b34b9aa9d45d321dd8c7f656d7ceec2a9a6711e7a370e3e8c8b8f85929",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/test_evidence_action.py",
+      "source_sha256": "decebcf1f4afa98b7092dae3e96332f442783cc5c2c1d25d88aebc353686f0ab",
+      "export_sha256": "decebcf1f4afa98b7092dae3e96332f442783cc5c2c1d25d88aebc353686f0ab",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/vendor/__init__.py",
+      "source_sha256": "b6359b57e1a88d2e2f4049b12e9693feb66e3c9bb8a2808db284edd77345beeb",
+      "export_sha256": "b6359b57e1a88d2e2f4049b12e9693feb66e3c9bb8a2808db284edd77345beeb",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "export": "examples/decision-repair/vendor/decision_repair.py",
+      "source_sha256": "190498493f4624ccac13e0fe18acbc835d61585bb3b7af1e0d28f090fc7309aa",
+      "export_sha256": "190498493f4624ccac13e0fe18acbc835d61585bb3b7af1e0d28f090fc7309aa",
+      "transformation": "byte-identical copy"
+    }
+  ]
+}

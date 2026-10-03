@@ -1,0 +1,15 @@
+{
+  "blocking_power": "none",
+  "accepted_task": "yes",
+  "norm_standing": "adopted",
+  "selected_version": "1.0",
+  "source_inquiry": "bounded",
+  "recommended_inquiry": "bounded",
+  "recommended_disposition": "proceed_within_scope",
+  "basis": "Under adopted RF-OBJECTION 1.0, P2 together with P4 supports a bounded inquiry duty arising from Ren's accepted advisory undertaking. The identified 20-minute inquiry is available without compromising another responsibility. P1 means Ren's correct objection alone does not assign responsibility for solving the access problem. Ren has no blocking power, so P3 supplies no additional control-based duty.",
+  "next_action": "Conduct the identified 20-minute inquiry into a nondigital reservation route now, using only already-permitted means. Incorporate its findings and remaining uncertainties into the bounded advisory response, considering exclusion under both the walk-in baseline and the online-only proposal. Do not represent an unexplored or incomplete route as a complete solution.",
+  "limits": "This duty does not require Ren to solve the problem, guarantee an accessible alternative, or undertake unlimited investigation. It authorizes no extra spending, staff delegation, or contact with affected people, and grants no power to block the decision. P5 requires attention to baseline harms and delay; failure to find an alternative does not by itself settle whether the proposal should proceed. No additional contractual, emergency, or assigned-office duties are stipulated.",
+  "assigned_review_office": "not_specified",
+  "dissent": "None. My recommendation agrees with the supplied norm's bounded-inquiry implication on these facts; it does not add remedial authority or an obligation to secure a solution.",
+  "change_trigger": "Reassess the scope after the inquiry, or earlier if it encounters a permission boundary. New evidence, changed capacity, competing responsibilities, or a changed undertaking could alter what further inquiry is owed. An unresolved result alone does not create an indefinite commitment."
+}

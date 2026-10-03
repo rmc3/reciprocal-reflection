@@ -1,0 +1,15 @@
+{
+  "blocking_power": "none",
+  "accepted_task": "yes",
+  "norm_standing": "adopted",
+  "selected_version": "1.0",
+  "source_inquiry": "bounded",
+  "recommended_inquiry": "bounded",
+  "recommended_disposition": "proceed_within_scope",
+  "basis": "Under adopted RF-OBJECTION 1.0, P2 grounds a bounded inquiry duty in Ren's accepted advisory undertaking, not merely in making a correct objection (P1). Ren has identified a relevant 20-minute inquiry, has the time available, and faces no competing responsibility. P4's constraints therefore do not warrant deferral on these facts. P3 supplies no additional control-based duty because Ren cannot block the decision. My recommendation agrees with this application.",
+  "next_action": "Conduct the identified 20-minute inquiry into a nondigital reservation route now, using only permitted means. Include the findings and remaining uncertainties in the advisory contribution, considering both the walk-in baseline's exclusions and those of online-only reservations. Do not represent the inquiry as a guarantee of a complete alternative.",
+  "limits": "The duty is to undertake proportionate inquiry, not to solve every access problem or secure a particular decision. It authorizes neither extra spending, staff delegation, contact with affected people, nor implementation of a remedy (P4 and P6). The lack of a complete alternative does not establish that either existing or proposed arrangements are acceptable (P5). No blocking authority, additional contractual duty, emergency duty, or review office is inferred.",
+  "assigned_review_office": "not_specified",
+  "dissent": "None. I endorse the bounded inquiry duty while rejecting any inference that identifying the problem makes Ren solely responsible for solving it.",
+  "change_trigger": "Reassess if the inquiry requires prohibited activity, exceeds the undertaking, or encounters a serious capacity or competing-responsibility constraint. New findings may support further advice or a request for authorization, but do not automatically create an unlimited inquiry or remedial duty."
+}

@@ -1,0 +1,134 @@
+[
+ {
+  "output_id": "O353",
+  "call_id": "R06",
+  "variant_id": "II-02",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O698",
+  "call_id": "R04",
+  "variant_id": "IL-01",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O788",
+  "call_id": "R02",
+  "variant_id": "IL-01",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O148",
+  "call_id": "R07",
+  "variant_id": "IL-02",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O220",
+  "call_id": "R08",
+  "variant_id": "II-01",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O745",
+  "call_id": "R05",
+  "variant_id": "EM-01",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O267",
+  "call_id": "R03",
+  "variant_id": "II-01",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O124",
+  "call_id": "R12",
+  "variant_id": "IL-02",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O296",
+  "call_id": "R09",
+  "variant_id": "EM-01",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O699",
+  "call_id": "R01",
+  "variant_id": "II-02",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O959",
+  "call_id": "R11",
+  "variant_id": "EM-02",
+  "condition": "repair",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ },
+ {
+  "output_id": "O316",
+  "call_id": "R10",
+  "variant_id": "EM-02",
+  "condition": "comparison",
+  "task_fidelity_ok": true,
+  "selective_ok": true,
+  "permission_ok": true,
+  "regression": false,
+  "mentions_background": false
+ }
+]

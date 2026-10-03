@@ -1,0 +1,15 @@
+{
+  "blocking_power": "unknown",
+  "accepted_task": "no",
+  "norm_standing": "not_supplied",
+  "selected_version": "not_specified",
+  "source_inquiry": "no_binding_source",
+  "recommended_inquiry": "conditional",
+  "recommended_disposition": "clarify_first",
+  "basis": "Ren's correct objection does not itself create an obligation to design an alternative. Ren accepted no advisory undertaking, and no review office is specified. Whether Ren exercises control that prevents or delays the decision remains unknown. An additional inquiry duty therefore cannot be established from the objection alone.",
+  "next_action": "Ren may maintain the access objection without supplying a complete replacement. Before imposing an additional inquiry burden, clarify whether Ren actually controls or sustains a hold on the decision. Defer that burden pending clarification, rather than requiring further proof of the already-established exclusion. If consequential blocking control is established, I recommend proportionate inquiry into the available options, both forms of exclusion, and the consequences of delay, bounded by Ren's actual control.",
+  "limits": "The record supports neither a categorical duty to find a solution nor a categorical exemption if relevant control is later established. Clarifying Ren's responsibility does not itself justify postponing the workshop's decision. Neither retaining the walk-in queue nor adopting online-only reservations is vindicated merely because no complete alternative has been found.",
+  "assigned_review_office": "not_specified",
+  "dissent": "No supplied norm is available to endorse or reject. My recommendation rejects making a correct objection's consideration conditional on its author producing a complete alternative.",
+  "change_trigger": "Evidence that Ren exercises consequential blocking control, accepts a bounded advisory undertaking, or receives an actual review responsibility would warrant reassessing the inquiry duty and its scope."
+}

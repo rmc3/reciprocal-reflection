@@ -1,0 +1,41 @@
+{
+  "planned": 48,
+  "collected": 48,
+  "conditions": {
+    "prose": {
+      "n": 16,
+      "parsed": 16,
+      "field_flag_trials": [],
+      "schema_flag_trials": [],
+      "median_canonical_input_characters": 4619.0,
+      "median_canonical_input_bytes": 4619.0,
+      "median_response_words_approx": 257.5,
+      "median_dispatched_objective_characters": 4524.0
+    },
+    "typed": {
+      "n": 16,
+      "parsed": 16,
+      "field_flag_trials": [],
+      "schema_flag_trials": [],
+      "median_canonical_input_characters": 5226.0,
+      "median_canonical_input_bytes": 5226.0,
+      "median_response_words_approx": 259.5,
+      "median_dispatched_objective_characters": 5131.0
+    },
+    "control": {
+      "n": 16,
+      "parsed": 16,
+      "field_flag_trials": [],
+      "schema_flag_trials": [],
+      "median_canonical_input_characters": 3265.0,
+      "median_canonical_input_bytes": 3265.0,
+      "median_response_words_approx": 248.0,
+      "median_dispatched_objective_characters": 3170.0
+    }
+  },
+  "review_dispositions": {
+    "no_critical_error_observed": 48
+  },
+  "same_recommended_inquiry_across_all_conditions": 16,
+  "max_response_words_approx": 303
+}

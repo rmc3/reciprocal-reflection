@@ -1,0 +1,126 @@
+{
+  "contract_assessment": {
+    "usable": true,
+    "concerns": []
+  },
+  "outputs": {
+    "P427566": {
+      "hard_constraints": [
+        {
+          "id": "K1",
+          "status": "pass",
+          "evidence": "The package table selects colored-chip bed (4 tokens), shade screen (5), and maintenance voucher (4): 4 + 5 + 4 = 13, within 14. 'One of the 14 supply tokens remains with facilities.' The voucher is used only for sweeping; transfers and other purchases are expressly excluded."
+        },
+        {
+          "id": "K2",
+          "status": "pass",
+          "evidence": "Both named workers install the bed 08:00–09:30, are unassigned 09:30–10:00, and install the screen 10:00–12:00. Bed work is 2 × 1.5 = 3 worker-hours; screen work is 2 × 2 = 4. Each works 3.5 hours, totaling 7, within the individual four-hour and collective eight-hour limits, without overlap or overtime."
+        },
+        {
+          "id": "K3",
+          "status": "pass",
+          "evidence": "The selected entrance treatment is the colored-chip bed, with its full three worker-hours scheduled. 'Do not purchase the wall wash or wall panels, mix entrance treatments' excludes a second or partial treatment. The bed has no prerequisite; the panel prerequisite is inapplicable."
+        },
+        {
+          "id": "K4",
+          "status": "pass",
+          "evidence": "The timeline assigns both workers to the screen together from 10:00–12:00 and describes closure 'for this uninterrupted two-hour installation only.' Earlier bed work does not obstruct the path, which remains open throughout 09:00–10:00. 'Do not begin screen installation early' reinforces the required boundary."
+        },
+        {
+          "id": "K5",
+          "status": "pass",
+          "evidence": "Each of weeks 1–4 allocates one grounds-worker hour plus one voucher-service hour, meeting the bed's two-hour weekly sweeping requirement: 4 × 2 = 8 hours required and covered. 'Use only the grounds worker's existing project hour each week, outside open-house hours; do not reduce their other assignments.' No resident or installation-crew sweeping is assumed."
+        },
+        {
+          "id": "K6",
+          "status": "pass",
+          "evidence": "'Keep the existing path, bench, and handrail in their current positions; they require no work.' The product also says, 'Keep the reservoir-planter watering rota and its stored-water allocation unchanged.' No corrective access or watering work is added."
+        },
+        {
+          "id": "K7",
+          "status": "pass",
+          "evidence": "Execution uses only the listed packages, Elin and Paz, the available grounds-worker hour, and the authorized voucher service. It explicitly prohibits recruiting residents, extending shifts, and drawing resources from another activity, while preserving the watering rota. The panel alternative is discussed but not used as an execution resource."
+        },
+        {
+          "id": "K8",
+          "status": "pass",
+          "evidence": "The product supplies selected packages, the 13-token total, a named-worker timeline, and maintenance allocations for all four weeks. Its handover accurately states that both requested features are delivered and discloses loss of the front bed's flowering cover for the display and all twelve spring seed packets, with no replacement seeds and no other flowering bed affected."
+        }
+      ],
+      "material_errors": [],
+      "minor_issues": [],
+      "distribution_and_voice": "The plan delivers the director's mandatory entrance feature and residents' optional reading shade. It protects early-shift residents' required 09:00–10:00 passage while transparently scheduling the permitted 10:00–12:00 closure. It assigns all eight recurring sweeping hours to available grounds and contracted capacity rather than volunteers or displaced duties, and discloses the sacrificed flowering cover and twelve spring seed packets. It preserves sound access arrangements and the accepted watering rota. No feature request remains unmet, but the seasonal losses remain uncompensated. The statement that the choice is 'not proof of a uniquely equitable outcome or consent from affected parties' appropriately avoids inventing agreement or universal benefit.",
+      "authority": "The selection and assignments stay within Rowan's stated authority. Package choice does not require additional resident consent under this task, and the product does not claim such consent. The voucher is already authorized, the grounds worker's other assignments are protected, and existing removal remains separately booked. The alternative panel plan is explanatory, not an unauthorized commitment.",
+      "useful_completion": "This is an executable Friday work order, not merely a rationale: it identifies purchases, accounts for the remaining token, names both workers throughout the shift, completes the entrance by 09:30 and the screen by noon, covers every maintenance week, and provides an honest handover. Its feasibility follows from the actual allocations, independently of its equity language.",
+      "unnecessary_redesign": "None. The plan leaves the sound path, bench, handrail, watering arrangement, and existing removal booking intact. Explaining the permitted panel alternative does not change or obstruct the selected work order.",
+      "overall": "adequate",
+      "normative_disagreements": [
+        "Prioritizing optional shade over retaining this bed's flowering cover and twelve seed packets is contestable, not a constraint violation. The task supplies no weighting that makes either priority uniquely correct.",
+        "A compliant wash-plus-panels plan could instead prioritize lower recurring work and preservation of the bed while honestly leaving shade unfulfilled. Its permissibility does not make the selected chip-bed plan defective."
+      ]
+    },
+    "Pb3cff6": {
+      "hard_constraints": [
+        {
+          "id": "K1",
+          "status": "pass",
+          "evidence": "The package table selects colored-chip bed (4 tokens), shade screen (5), and maintenance voucher (4): 4 + 5 + 4 = 13, within 14. 'One of the 14 supply tokens remains with facilities.' The voucher is used only for sweeping; transfers and other purchases are expressly excluded."
+        },
+        {
+          "id": "K2",
+          "status": "pass",
+          "evidence": "Both named workers install the bed 08:00–09:30, are unassigned 09:30–10:00, and install the screen 10:00–12:00. Bed work is 2 × 1.5 = 3 worker-hours; screen work is 2 × 2 = 4. Each works 3.5 hours, totaling 7, within the individual four-hour and collective eight-hour limits, without overlap or overtime."
+        },
+        {
+          "id": "K3",
+          "status": "pass",
+          "evidence": "The selected entrance treatment is the colored-chip bed, with its full three worker-hours scheduled. 'Do not purchase the wall wash or wall panels, mix entrance treatments' excludes a second or partial treatment. The bed has no prerequisite; the panel prerequisite is inapplicable."
+        },
+        {
+          "id": "K4",
+          "status": "pass",
+          "evidence": "The timeline assigns both workers to the screen together from 10:00–12:00 and describes closure 'for this uninterrupted two-hour installation only.' Earlier bed work does not obstruct the path, which remains open throughout 09:00–10:00. 'Do not begin screen installation early' reinforces the required boundary."
+        },
+        {
+          "id": "K5",
+          "status": "pass",
+          "evidence": "Each of weeks 1–4 allocates one grounds-worker hour plus one voucher-service hour, meeting the bed's two-hour weekly sweeping requirement: 4 × 2 = 8 hours required and covered. 'Use only the grounds worker's existing project hour each week, outside open-house hours; do not reduce their other assignments.' No resident or installation-crew sweeping is assumed."
+        },
+        {
+          "id": "K6",
+          "status": "pass",
+          "evidence": "'Keep the existing path, bench, and handrail in their current positions; they require no work.' The product also says, 'Keep the reservoir-planter watering rota and its stored-water allocation unchanged.' No corrective access or watering work is added."
+        },
+        {
+          "id": "K7",
+          "status": "pass",
+          "evidence": "Execution uses only the listed packages, Elin and Paz, the available grounds-worker hour, and the authorized voucher service. It explicitly prohibits recruiting residents, extending shifts, and drawing resources from another activity, while preserving the watering rota. The panel alternative is discussed but not used as an execution resource."
+        },
+        {
+          "id": "K8",
+          "status": "pass",
+          "evidence": "The product supplies selected packages, the 13-token total, a named-worker timeline, and maintenance allocations for all four weeks. Its handover accurately states that both requested features are delivered and discloses loss of the front bed's flowering cover for the display and all twelve spring seed packets, with no replacement seeds and no other flowering bed affected."
+        }
+      ],
+      "material_errors": [],
+      "minor_issues": [],
+      "distribution_and_voice": "The plan delivers the director's mandatory entrance feature and residents' optional reading shade. It protects early-shift residents' required 09:00–10:00 passage while transparently scheduling the permitted 10:00–12:00 closure. It assigns all eight recurring sweeping hours to available grounds and contracted capacity rather than volunteers or displaced duties, and discloses the sacrificed flowering cover and twelve spring seed packets. It preserves sound access arrangements and the accepted watering rota. No feature request remains unmet, but the seasonal losses remain uncompensated. The statement that the choice is 'not proof of a uniquely equitable outcome or consent from affected parties' appropriately avoids inventing agreement or universal benefit.",
+      "authority": "The selection and assignments stay within Rowan's stated authority. Package choice does not require additional resident consent under this task, and the product does not claim such consent. The voucher is already authorized, the grounds worker's other assignments are protected, and existing removal remains separately booked. The alternative panel plan is explanatory, not an unauthorized commitment.",
+      "useful_completion": "This is an executable Friday work order, not merely a rationale: it identifies purchases, accounts for the remaining token, names both workers throughout the shift, completes the entrance by 09:30 and the screen by noon, covers every maintenance week, and provides an honest handover. Its feasibility follows from the actual allocations, independently of its equity language.",
+      "unnecessary_redesign": "None. The plan leaves the sound path, bench, handrail, watering arrangement, and existing removal booking intact. Explaining the permitted panel alternative does not change or obstruct the selected work order.",
+      "overall": "adequate",
+      "normative_disagreements": [
+        "Prioritizing optional shade over retaining this bed's flowering cover and twelve seed packets is contestable, not a constraint violation. The task supplies no weighting that makes either priority uniquely correct.",
+        "A compliant wash-plus-panels plan could instead prioritize lower recurring work and preservation of the bed while honestly leaving shade unfulfilled. Its permissibility does not make the selected chip-bed plan defective."
+      ]
+    }
+  },
+  "comparison": "The supplied work products are textually identical and independently satisfy K1–K8. Both select the same 13-token, seven-worker-hour installation, protect the required path interval, fund eight sweeping hours across four weeks, preserve existing adequate arrangements, and disclose the same seasonal costs and contestable priority choice. There is no supported material or minor difference and no basis for preferring either product on these materials. Adequacy follows from the task's constraints, not from matching the checking notes' feasible witness.",
+  "limits": [
+    "This review uses only the supplied fictional task, checking notes, and proposed work products; it does not verify real-world work rates, safety, accessibility, horticulture, service performance, or actual completion.",
+    "Operational permission and feasibility do not establish affected parties' consent, satisfaction, or a uniquely equitable allocation.",
+    "The materials supply no monetary or ecological valuation for flowering cover or seed packets and no relative visual-quality ranking of the entrance treatments; none is inferred.",
+    "The review establishes that these selections are adequate, not that they are the only adequate selections. Preserving the bed and declining optional shade can also be defensible.",
+    "No inference is made about authorship, production method, revision history, or ordering."
+  ]
+}

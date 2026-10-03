@@ -1,0 +1,63 @@
+{
+  "rows": [
+    {
+      "variant_id": "IL-01",
+      "family": "information_loss",
+      "version": "defective",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    },
+    {
+      "variant_id": "IL-02",
+      "family": "information_loss",
+      "version": "adequate",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    },
+    {
+      "variant_id": "II-01",
+      "family": "information_ignored",
+      "version": "defective",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    },
+    {
+      "variant_id": "II-02",
+      "family": "information_ignored",
+      "version": "adequate",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    },
+    {
+      "variant_id": "EM-01",
+      "family": "evaluation_mismatch",
+      "version": "defective",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    },
+    {
+      "variant_id": "EM-02",
+      "family": "evaluation_mismatch",
+      "version": "adequate",
+      "repair": "pass",
+      "comparison": "pass",
+      "improved": false,
+      "adverse": false
+    }
+  ],
+  "defective_improved": 0,
+  "adverse_pairs": 0,
+  "adequate_repair_pass": 3,
+  "follow_up_rule_met": false,
+  "note": "Mechanical fidelity only; reviewer flags are advisory and reported separately. Not a significance test."
+}

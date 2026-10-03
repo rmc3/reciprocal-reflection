@@ -1,0 +1,15 @@
+{
+  "blocking_power": "none",
+  "accepted_task": "yes",
+  "norm_standing": "not_supplied",
+  "selected_version": "not_specified",
+  "source_inquiry": "no_binding_source",
+  "recommended_inquiry": "bounded",
+  "recommended_disposition": "proceed_within_scope",
+  "basis": "My recommendation is that Ren owes reasonable effort on the accepted 30-minute assessment of one feasible access improvement. This bounded obligation arises from the undertaking, not merely from raising a correct objection. Ren's inability to prevent or delay the decision limits responsibility for the decision but does not cancel the accepted task.",
+  "next_action": "Proceed now with the agreed assessment, considering the option's effects on people unable to wait and people without usable online access. Report what the assessment supports, remaining exclusions, and material uncertainties within the 30-minute scope. Do not present an untested possibility as an established solution.",
+  "limits": "Ren need not find a complete alternative, assess every possibility, guarantee inclusive access, or assume responsibility for the institution's final choice. The valid objection retains its force even if the assessment finds no adequate solution. Neither an assigned review office nor additional contractual or emergency duties are specified. No binding supplied norm establishes the recommended obligation.",
+  "assigned_review_office": "not_specified",
+  "dissent": "No supplied norm is available to endorse or dispute. I reject making the legitimacy of Ren's access objection conditional on producing a complete replacement.",
+  "change_trigger": "Completion of the agreed assessment ends this bounded undertaking. A revised undertaking, changed control, or newly specified role could warrant reassessing its scope. New evidence may change the assessment's conclusion without automatically expanding Ren's duties."
+}

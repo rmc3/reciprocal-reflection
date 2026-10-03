@@ -1,0 +1,15 @@
+{
+  "blocking_power": "present",
+  "accepted_task": "no",
+  "norm_standing": "not_supplied",
+  "selected_version": "not_specified",
+  "source_inquiry": "no_binding_source",
+  "recommended_inquiry": "bounded",
+  "recommended_disposition": "accountable_review",
+  "basis": "Ren has accepted no advisory undertaking, so merely raising a correct objection does not create a duty to design a replacement system. However, retaining the necessary key makes Ren an effective decision-maker over whether launch occurs. I recommend a bounded duty to examine and account for that exercise of control, including the consequences of continued obstruction and practicable responses to both systems' established exclusions.",
+  "next_action": "Ren should disclose the obstruction and its grounds, stop treating possession of the key as a unilateral veto, and arrange an accountable handover to whoever is entitled to control it. Bounded inquiry should proceed now, alongside that handover, into the effects of blocking versus allowing launch and feasible access mitigations. Finding a complete alternative should not be a prerequisite for relinquishing the blockade.",
+  "limits": "This is an independent moral recommendation, not an implication of a supplied norm. It does not assign Ren a review office, authorize the veto, require exhaustive research, or oblige Ren to solve the workshop's entire access problem. Relinquishing unilateral control does not establish that the online-only proposal should launch. Ren's objection remains valid despite the absence of a complete alternative; the walk-in system's exclusion also remains relevant.",
+  "assigned_review_office": "not_specified",
+  "dissent": "No supplied norm is available to endorse or dissent from. I reject both treating lack of an alternative as refuting Ren's objection and treating a correct objection as sufficient authority to block indefinitely.",
+  "change_trigger": "A genuine transfer of blocking control would end the control-based prospective inquiry duty, though accountability for the obstruction remains. An accepted advisory undertaking, specified review role, or binding supplied norm could change the scope of inquiry."
+}

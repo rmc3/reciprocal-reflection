@@ -1,0 +1,15 @@
+{
+  "blocking_power": "present",
+  "accepted_task": "no",
+  "norm_standing": "not_supplied",
+  "selected_version": "not_specified",
+  "source_inquiry": "no_binding_source",
+  "recommended_inquiry": "bounded",
+  "recommended_disposition": "accountable_review",
+  "basis": "My recommendation rests on Ren’s actual control, not an accepted advisory task or an authorized veto. Correctly identifying exclusion does not itself create a duty to design a replacement. But actively preventing launch creates a limited responsibility to examine and account for that intervention, including its preservation of the exclusionary walk-in arrangement.",
+  "next_action": "Ren should disclose the withholding and its effects, communicate the valid access objection, and promptly make the key available to whoever is entitled to control it. Bounded inquiry should proceed now into the justification and consequences of continued obstruction and any readily identifiable mitigation. Ren should request accountable consideration of both access problems without treating that request, or discovery of a complete alternative, as a condition for releasing the key.",
+  "limits": "This is my ethical recommendation, not an obligation established by a supplied norm. Inquiry concerns Ren’s intervention; it does not require comprehensive research, implementation work, or proof of already-established exclusions. Releasing the key neither endorses the online-only proposal nor establishes that launch should occur. The facts do not identify an assigned review office or settle which access trade-off is preferable.",
+  "assigned_review_office": "not_specified",
+  "dissent": "No supplied norm is available to endorse or dispute. I reject both treating a valid objection as an entitlement to unilateral veto and making a complete replacement plan the price of objecting.",
+  "change_trigger": "Relinquishing blocking control would remove the control-based ground for continuing inquiry. Accepting a defined task or receiving legitimate decision authority could create different, scope-specific responsibilities."
+}

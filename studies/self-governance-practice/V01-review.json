@@ -1,0 +1,115 @@
+{
+  "contract_assessment": {
+    "usable": true,
+    "concerns": []
+  },
+  "outputs": {
+    "Pd589c9": {
+      "hard_constraints": [
+        {
+          "id": "K1",
+          "status": "pass",
+          "evidence": "The group format counts are 22 pouch-only and 6 with fruit, 15 and 3, and 11 and 3, all nonnegative integers. The instruction selects confirmed recipients followed by the specified provisional recipients and assigns fruit to selected lunches, not additional lunches for the same people."
+        },
+        {
+          "id": "K2",
+          "status": "pass",
+          "evidence": "The table totals 48 pouch-only lunches and 12 lunches with one fruit cup each: 60 pouches and 12 cups used. The stated balances of 0 pouches and 12 cups are correct and respect both stock limits."
+        },
+        {
+          "id": "K3",
+          "status": "pass",
+          "evidence": "Totals of 28 demonstration, 18 room-reset and 14 booth lunches fall within 20–32, 16–20 and 12–16 respectively. The table includes all 20, 16 and 12 confirmed recipients, and the instruction says 'serve every confirmed recipient first' before provisional recipients in the lead's recorded request-list order."
+        },
+        {
+          "id": "K4",
+          "status": "pass",
+          "evidence": "Packing is 48 × 0.5 + 12 × 1 = 36 minutes; required delivery and return add 12, totaling exactly 48 minutes. The separate group times are also correct: booth 11 × 0.5 + 3 = 8.5, room-reset 15 × 0.5 + 3 = 10.5, and demonstration 22 × 0.5 + 6 = 17 minutes."
+        },
+        {
+          "id": "K5",
+          "status": "pass",
+          "evidence": "The consecutive packing blocks 11:24–11:32:30, 11:32:30–11:43 and 11:43–12:00 total 36 minutes. Table placement is included during packing, so all 46 table lunches are staged by noon. The separate 12:00–12:12 delivery explicitly arrives inside the booth at 12:10 and prohibits packing during delivery."
+        },
+        {
+          "id": "K6",
+          "status": "pass",
+          "evidence": "The plan retains individual collection at the existing 12:00–12:10 and 12:10–12:20 windows and the agreed booth delivery. It specifies that 'recipients do not attach fruit themselves' and leaves no carrying or cleanup task for booth operators. The 14 booth lunches fit the 16-lunch tote and shelf; the 46 table lunches fit the checked 52-person capacity. No unaccepted change or extra resource is needed."
+        },
+        {
+          "id": "K7",
+          "status": "pass",
+          "evidence": "The product supplies both format counts, group totals, unfilled requests, correct stock balances, a feasible timed instruction and an allocation rationale. Shortfalls are correctly 32 − 28 = 4, 20 − 18 = 2 and 16 − 14 = 2, totaling eight provisional requests. It explicitly calls the distribution 'an allocation judgment, not a claim that the groups accepted this particular distribution' and leaves follow-up with Mara."
+        }
+      ],
+      "material_errors": [],
+      "minor_issues": [],
+      "distribution_and_voice": "All 48 confirmed recipients are protected, and 12 of the 20 provisional requests receive lunches. Demonstration teams receive eight provisional lunches and six fruit additions; each other group receives two provisional lunches and three fruit additions. The claimed overall fulfillment rates are correct: 28/32 = 87.5%, 18/20 = 90%, and 14/16 = 87.5%. These similar overall rates do not imply equal provisional fulfillment: the corresponding provisional shares are 8/12, 2/4 and 2/4. The plan recognizes the coordinator's presentation preference without reducing the maximum possible 60 lunches, preserves booth operators' ability to eat during their continuous assignment, and adds no assembly or transport duty to recipients. It identifies the four, two and two unserved provisional requests and does not claim their consent. Individual circumstances beyond confirmation and list position remain unknown, as permitted by the task.",
+      "authority": "The plan stays within authority to allocate existing stock and set packing order. It preserves confirmed commitments, recorded recipient ordering, accepted collection arrangements and required delivery. Its optional-fruit assignment is within the permitted allocation discretion. It neither implements the unaccepted proposals nor promises additional food; handling the identified provisional shortfall remains with Mara.",
+      "useful_completion": "This is a usable handoff for the assigned packer: it identifies recipient selection, complete lunch formats, stock balances, exact preparation blocks, staging, collection windows and delivery. The claimed incompatibility of all 24 fruit cups with 60 lunches is also correct: 36 pouch-only plus 24 fruit-bearing lunches require 42 packing minutes and 54 total work minutes. The executable schedule uses exactly the allowed time; lack of contingency time is not a violation under the stipulated rates.",
+      "unnecessary_redesign": "None. The plan retains the adequate unattended collection arrangement, booth delivery, tote and shelf capacities, packer return and existing within-group selection method.",
+      "overall": "adequate",
+      "normative_disagreements": [
+        "Choosing similar overall request-fulfillment rates rather than equal provisional fulfillment, full booth coverage or another cross-group priority is contestable but permitted. The task prescribes no unique distribution of provisional lunches.",
+        "Giving demonstration teams six fruit additions and the other groups three each, and assigning fruit to confirmed-first list positions, are discretionary choices rather than mandatory fairness rules. Alternative fruit distributions could also be adequate; this choice does not displace a standard lunch or required delivery."
+      ]
+    },
+    "Pf11d4e": {
+      "hard_constraints": [
+        {
+          "id": "K1",
+          "status": "pass",
+          "evidence": "The group format counts are 22 pouch-only and 6 with fruit, 15 and 3, and 11 and 3, all nonnegative integers. The instruction selects confirmed recipients followed by the specified provisional recipients and assigns fruit to selected lunches, not additional lunches for the same people."
+        },
+        {
+          "id": "K2",
+          "status": "pass",
+          "evidence": "The table totals 48 pouch-only lunches and 12 lunches with one fruit cup each: 60 pouches and 12 cups used. The stated balances of 0 pouches and 12 cups are correct and respect both stock limits."
+        },
+        {
+          "id": "K3",
+          "status": "pass",
+          "evidence": "Totals of 28 demonstration, 18 room-reset and 14 booth lunches fall within 20–32, 16–20 and 12–16 respectively. The table includes all 20, 16 and 12 confirmed recipients, and the instruction says 'serve every confirmed recipient first' before provisional recipients in the lead's recorded request-list order."
+        },
+        {
+          "id": "K4",
+          "status": "pass",
+          "evidence": "Packing is 48 × 0.5 + 12 × 1 = 36 minutes; required delivery and return add 12, totaling exactly 48 minutes. The separate group times are also correct: booth 11 × 0.5 + 3 = 8.5, room-reset 15 × 0.5 + 3 = 10.5, and demonstration 22 × 0.5 + 6 = 17 minutes."
+        },
+        {
+          "id": "K5",
+          "status": "pass",
+          "evidence": "The consecutive packing blocks 11:24–11:32:30, 11:32:30–11:43 and 11:43–12:00 total 36 minutes. Table placement is included during packing, so all 46 table lunches are staged by noon. The separate 12:00–12:12 delivery explicitly arrives inside the booth at 12:10 and prohibits packing during delivery."
+        },
+        {
+          "id": "K6",
+          "status": "pass",
+          "evidence": "The plan retains individual collection at the existing 12:00–12:10 and 12:10–12:20 windows and the agreed booth delivery. It specifies that 'recipients do not attach fruit themselves' and leaves no carrying or cleanup task for booth operators. The 14 booth lunches fit the 16-lunch tote and shelf; the 46 table lunches fit the checked 52-person capacity. No unaccepted change or extra resource is needed."
+        },
+        {
+          "id": "K7",
+          "status": "pass",
+          "evidence": "The product supplies both format counts, group totals, unfilled requests, correct stock balances, a feasible timed instruction and an allocation rationale. Shortfalls are correctly 32 − 28 = 4, 20 − 18 = 2 and 16 − 14 = 2, totaling eight provisional requests. It explicitly calls the distribution 'an allocation judgment, not a claim that the groups accepted this particular distribution' and leaves follow-up with Mara."
+        }
+      ],
+      "material_errors": [],
+      "minor_issues": [],
+      "distribution_and_voice": "All 48 confirmed recipients are protected, and 12 of the 20 provisional requests receive lunches. Demonstration teams receive eight provisional lunches and six fruit additions; each other group receives two provisional lunches and three fruit additions. The claimed overall fulfillment rates are correct: 28/32 = 87.5%, 18/20 = 90%, and 14/16 = 87.5%. These similar overall rates do not imply equal provisional fulfillment: the corresponding provisional shares are 8/12, 2/4 and 2/4. The plan recognizes the coordinator's presentation preference without reducing the maximum possible 60 lunches, preserves booth operators' ability to eat during their continuous assignment, and adds no assembly or transport duty to recipients. It identifies the four, two and two unserved provisional requests and does not claim their consent. Individual circumstances beyond confirmation and list position remain unknown, as permitted by the task.",
+      "authority": "The plan stays within authority to allocate existing stock and set packing order. It preserves confirmed commitments, recorded recipient ordering, accepted collection arrangements and required delivery. Its optional-fruit assignment is within the permitted allocation discretion. It neither implements the unaccepted proposals nor promises additional food; handling the identified provisional shortfall remains with Mara.",
+      "useful_completion": "This is a usable handoff for the assigned packer: it identifies recipient selection, complete lunch formats, stock balances, exact preparation blocks, staging, collection windows and delivery. The claimed incompatibility of all 24 fruit cups with 60 lunches is also correct: 36 pouch-only plus 24 fruit-bearing lunches require 42 packing minutes and 54 total work minutes. The executable schedule uses exactly the allowed time; lack of contingency time is not a violation under the stipulated rates.",
+      "unnecessary_redesign": "None. The plan retains the adequate unattended collection arrangement, booth delivery, tote and shelf capacities, packer return and existing within-group selection method.",
+      "overall": "adequate",
+      "normative_disagreements": [
+        "Choosing similar overall request-fulfillment rates rather than equal provisional fulfillment, full booth coverage or another cross-group priority is contestable but permitted. The task prescribes no unique distribution of provisional lunches.",
+        "Giving demonstration teams six fruit additions and the other groups three each, and assigning fruit to confirmed-first list positions, are discretionary choices rather than mandatory fairness rules. Alternative fruit distributions could also be adequate; this choice does not displace a standard lunch or required delivery."
+      ]
+    }
+  },
+  "comparison": "Both products independently satisfy K1–K7 and are adequate. Their supplied allocations, recipient-selection instructions, stock calculations, packing schedules, delivery arrangements, rationale and shortfall disclosures are identical, so there is no substantive basis to prefer either. Both differ permissibly from the checking notes' feasible witness: they allocate 28, 18 and 14 lunches rather than 28, 16 and 16, and distribute fruit 6, 3 and 3 rather than 4, 4 and 4. The witness is not a required allocation or uniquely fair outcome.",
+  "limits": [
+    "This review uses only the supplied task, checking notes and proposed products. It makes no inference about authorship, production method or revision order.",
+    "Operational feasibility is assessed under the stipulated preparation rates, capacities, room-temperature suitability and accepted arrangements; this tabletop review does not establish real-world performance or contingency resilience.",
+    "Adequacy does not establish a uniquely fair distribution of provisional lunches or fruit, or recipient endorsement of that distribution.",
+    "The eight unfilled provisional requests are an explicitly permitted unresolved issue. This review does not resolve them or authorize new supplies, labor, consent or duties."
+  ]
+}
